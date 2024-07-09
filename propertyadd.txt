@@ -1,0 +1,18 @@
+#
+*   Plot Area : 600 sq.meter                                                                                    *
+*  (A) Set back                                                                                                 *
+*    1.Front :-  20 meter    2.side :- 30 meter                                                                 *
+*    3.Back :-   20 meter    4.side :- 30 meter                                                                 *
+*  (B) Max Height :-  8 meter                                                                                   *
+*  (C) Floors : Ground floor , First Floor                                                                      *
+*  (D) Other parameters for construction of building will be according to preveiling rule BYE laws-2020.        *
+*  (E) Construction Period : As per the condition mentioned in the base land.                                   *
+*  (F) Approved maps as per township policy 2010.                                                               *
+*                                                                                                               *
+*                                                                                                               *
+*                                                                                                               *
+*            MAHIPAL RATHORE             KRISHNA SINGHAL                NANDINI BISWAS                          *
+*             SITE ENGINEER                   ATP/DTP                    COMMISSIONER                           *
+*               ZONE-7                        ZONE-7                         ZONE-7                             *
+*                                                                                                               *
+*****************************************************************************************************************

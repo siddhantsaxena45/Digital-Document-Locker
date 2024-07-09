@@ -1,0 +1,15 @@
+#
+*                                                                   *
+* CODE     SUBJECT                  MARKS                GRADE      *
+* 301       ENGLISH CORE             87                    B        *
+* 041       MATHEMATICS              99                    A        * 
+* 042       PHYSICS                  95                    A        * 
+* 043       CHEMISTRY                92                    A        * 
+* 502       COMPUTER                 97                    A        * 
+*                                                                   *
+*                                  RESULT : PASS                    *
+*                                                                   *
+* DATE: 19/-06/2022                           COORDINATOR OF EXAM   *
+*                                                 K.SHARMA          *
+*                                                                   *
+*********************************************************************

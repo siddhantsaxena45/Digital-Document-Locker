@@ -1,0 +1,8 @@
+	**************************************************
+	*            Your SignUp Details                 *
+	* User Name = dev                                *
+	* Password = 12345hH@                            *
+	* Email id = devrastogi@gmail.com                *
+	* Phone Number = 89976655                        *
+	* Address= xyz                                   *
+	**************************************************
